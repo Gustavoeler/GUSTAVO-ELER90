@@ -1,0 +1,6 @@
+{
+  "name": "GustavoEler — Projeto 90 Dias",
+  "description": "Acompanhamento de treinos de hipertrofia, progressão de cargas, peso corporal, medidas e fotos de evolução no Projeto 90 Dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
